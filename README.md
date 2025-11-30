@@ -2,8 +2,8 @@
 ``` text
 => newbie
 => easy
-=>
-=>
+=> intermediate
+=> advanced
 => expert
 => master
-=> grandmaster
+=> 
