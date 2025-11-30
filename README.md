@@ -1,9 +1,9 @@
-### Step by Step
+### level
 ``` text
-=> newbie
-=> easy
-=> intermediate
-=> advanced
-=> expert
-=> master
 => elit
+=> master
+=> expert
+=> advanced
+=> intermediate
+=> easy
+=> newbie
